@@ -1,0 +1,17 @@
+*.sw*
+.coverage
+.pytest_cache
+*__pycache__
+__pycache__/
+.env
+logs
+.DS_Store
+*.pyc
+.git
+app.log
+**/__pycache__
+venv/
+*flac
+*jpg
+*png
+vector_store
